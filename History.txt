@@ -1,4 +1,4 @@
-== 2.0.0 / 2009-10-27 **
+== 2.0.0 / 2009-10-27 ****
   * Major Enhancements
     * All filesystem calls have been moved into Grit::Git to allow proxying
   * Non-code changes
